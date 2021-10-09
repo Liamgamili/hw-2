@@ -1,0 +1,12 @@
+n = 1
+a = 1
+while True:
+    n > 0
+    n = int(input('enter num'))
+    break
+while a > 0:
+    a = int(input('enter num'))
+    if n > a:
+        print('bigger')
+    else:
+        break
