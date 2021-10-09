@@ -1,0 +1,4 @@
+#task10
+n = int(input('enter num'))
+n = n % 10
+print(n)
